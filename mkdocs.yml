@@ -1,4 +1,53 @@
-site_name: My Docs
+site_name: Еще один блог о полетах
+site_url: "https://blog.simakhin.com/"
+site_description: Еще один блог о полетах
+site_author: Vladimir Simakhin
 
 theme:
   name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to light mode
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to auto mode
+  
+  features:
+    - navigation.instant
+
+plugins:
+  - blog:
+      blog_dir: .
+      post_url_date_format: yyyy/MM
+      pagination_per_page: 5
+  - tags:
+      tags_file: tags.md
+  - search:
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/vsimakhin/
+      name: LinkedIn
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/vsimakhin/
+      name: Instagram
+
+copyright: Copyright &copy; Vladimir Simakhin
