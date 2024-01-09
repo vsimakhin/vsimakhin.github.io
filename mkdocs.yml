@@ -5,6 +5,7 @@ site_author: Vladimir Simakhin
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
