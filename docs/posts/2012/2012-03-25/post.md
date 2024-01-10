@@ -19,6 +19,6 @@ tags:
 
 Вчера удалось снять немного видео, только сразу извиняюсь за качество, снимал на пропеллер:
 
-* Аэродром Млада Болеслав, полоса 23, приземление – [http://youtu.be/UVFuqsfASdI](http://youtu.be/UVFuqsfASdI)
-* Тот же аэродром, та же полоса, взлет – [http://youtu.be/ye1pQsJnydc](http://youtu.be/ye1pQsJnydc)
-* Родной аэродром Сазена, touch-and-go, полет по кругу, приземление, полоса 33 – [http://youtu.be/cuGkL5PS-rw](http://youtu.be/cuGkL5PS-rw)
+* Аэродром Млада Болеслав, полоса 23, приземление - [http://youtu.be/UVFuqsfASdI](http://youtu.be/UVFuqsfASdI)
+* Тот же аэродром, та же полоса, взлет - [http://youtu.be/ye1pQsJnydc](http://youtu.be/ye1pQsJnydc)
+* Родной аэродром Сазена, touch-and-go, полет по кругу, приземление, полоса 33 - [http://youtu.be/cuGkL5PS-rw](http://youtu.be/cuGkL5PS-rw)
