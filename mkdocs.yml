@@ -57,6 +57,9 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/vsimakhin/
       name: Instagram
+  analytics:
+    provider: google
+    property: G-C1SR65X6LL
 
 copyright: Copyright &copy; Vladimir Simakhin
 
