@@ -42,6 +42,8 @@ plugins:
       pagination_per_page: 5
       blog_toc: true
       archive_toc: true
+      archive_name: Архив
+      categories_name: Категории
   - tags:
       tags_file: tags.md
   - search:
