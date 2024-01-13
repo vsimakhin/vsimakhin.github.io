@@ -59,6 +59,12 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/vsimakhin/
       name: Instagram
+  consent:
+    # title: Cookie consent
+    actions:
+      - accept
+    description: >- 
+      The cookies are used only for Google Analytics to track the usage of this blog.
 
 copyright: Copyright &copy; Vladimir Simakhin
 
