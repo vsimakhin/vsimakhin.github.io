@@ -59,6 +59,9 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/vsimakhin/
       name: Instagram
+    - icon: fontawesome/solid/envelope
+      link: mailto:vsimakhin@gmail.com
+      name: E-mail
 
 copyright: Copyright &copy; Vladimir Simakhin
 
